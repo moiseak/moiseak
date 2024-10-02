@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @moiseak
-- 🌱 I’m currently learning CS61A.
+- 🌱 I’m currently learning CS61B.
 - 📫 How to reach me: clashandclash@proton.me / https://moiseak.github.io/
 
 <!---
