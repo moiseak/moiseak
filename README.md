@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @moiseak
-- 🌱 I’m currently learning CS61B. I've finsihed CS50 and CS61A.
+- 🌱 I’m currently learning Spring. I've finsihed CS50 and CS61A and CS61B.
 - 📫 How to reach me: clashandclash@proton.me / https://moiseak.github.io/
 
 <!---
